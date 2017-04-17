@@ -9,7 +9,7 @@ import java.util.regex.*;
 /**
 * https://www.hackerrank.com/challenges/gem-stones
 */
-public class Solution {
+public class Gemstones {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
