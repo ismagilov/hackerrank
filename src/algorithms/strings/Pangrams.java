@@ -1,13 +1,15 @@
-/**
-* https://www.hackerrank.com/challenges/pangrams
-*/
+package algorithms.strings;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+/**
+* https://www.hackerrank.com/challenges/pangrams
+*/
+public class Pangrams {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
