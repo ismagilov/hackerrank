@@ -1,8 +1,7 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+package algorithms.search;
+
+import java.util.Arrays;
+import java.util.Scanner;
 
 /**
 * https://www.hackerrank.com/challenges/pairs

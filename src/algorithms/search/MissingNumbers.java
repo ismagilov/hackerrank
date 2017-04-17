@@ -1,10 +1,11 @@
-import java.io.*;
-import java.util.*;
+package algorithms.search;
+
+import java.util.Scanner;
 
 /**
 * https://www.hackerrank.com/challenges/missing-numbers
 */
-public class Solution {
+public class MissingNumbers {
     public static void main(String[] args) {                
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
