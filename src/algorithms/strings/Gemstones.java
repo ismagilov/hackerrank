@@ -1,3 +1,5 @@
+package algorithms.strings;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
