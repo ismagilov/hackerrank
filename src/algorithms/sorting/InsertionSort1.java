@@ -6,6 +6,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+* https://www.hackerrank.com/challenges/insertionsort1
+*/
 public class Solution {
     public static void insertIntoSorted(int[] ar) {
         int val = ar[ar.length - 1];
