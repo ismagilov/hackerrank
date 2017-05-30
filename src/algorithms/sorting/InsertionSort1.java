@@ -1,15 +1,11 @@
 package algorithms.sorting;
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 /**
 * https://www.hackerrank.com/challenges/insertionsort1
 */
-public class Solution {
+public class InsertionSort1 {
     public static void insertIntoSorted(int[] ar) {
         int val = ar[ar.length - 1];
         
